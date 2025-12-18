@@ -18,8 +18,10 @@
 curl -O https://raw.githubusercontent.com/YOUR_USERNAME/arch-installer/main/install_programs.sh
 chmod +x install_programs.sh
 sudo ./install_programs.sh
+```
 
 ##🔄 После перезагрузки:
 
 ```bash
 flatpak install flathub org.jupyter.JupyterLab md.obsidian.Obsidian com.github.unrud.VideoDownloader ru.linux_gaming.PortProton -y
+```
